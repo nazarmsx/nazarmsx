@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Nazar.
+
+- 🔭 I'm a software engineer with over 10 years of experience. Skilled in both back-end and front-end development, with strong background with cloud providers.
+- I'm profound in JS/TS, Node, Angular.
+- 📫 How to reach me: [nazarmsx@ukr.net](mailto:nazarmsx@ukr.net) or add me on [Linkedin](https://www.linkedin.com/in/nazar-chuba-46013b105/)
+
+## Skills
+[![My Credly Badge](https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](https://www.credly.com/badges/1c450cd0-61ce-4566-91d1-ceb5fe7d7bb1/public_url)
+
 <!--
 **nazarmsx/nazarmsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
